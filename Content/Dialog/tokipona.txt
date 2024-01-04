@@ -30,7 +30,7 @@
 # Done loading Meta Data
 	BEGIN=true
 
-#Auto-Saving
+#ĉċĖċðċìċĕċĊ-Saving
 	AUTOSAVING_TITLE_NS=
 		§»
 	AUTOSAVING_DESC_NS=
@@ -52,7 +52,7 @@
 		àÁ¡
 		ÄÐ»
 
-#MainMenu
+#ĉ°ċĖċċĕċĊĉ³ċĕċ½ċðċĊ
 	MENU_DEBUG=		~É~
 	MENU_BEGIN=		Äé
 	MENU_PICO8=		ĉÍċĖċċĖċĊ-8
@@ -60,7 +60,7 @@
 	MENU_CREDITS=	Äáç
 	MENU_EXIT=		Äö
 
-#Options
+#ĉÄċĖċÈċçċċÄċĖċ½ċÖċĊ
 	OPTIONS_TITLE=			¿
 	OPTIONS_CONTROLS=		¤
 	OPTIONS_RUMBLE_PC=		é
@@ -70,7 +70,7 @@
 	OPTIONS_RUMBLE_ON=		100%
 	OPTIONS_RUMBLE_HALF=	50%
 	OPTIONS_RUMBLE_OFF=		
-	OPTIONS_GRAB_MODE=		¿
+	OPTIONS_GRAB_MODE=		¿Íß
 	OPTIONS_CROUCH_DASH_MODE=	¿Íéõ
 	OPTIONS_BUTTON_PRESS=	­
 	OPTIONS_BUTTON_HOLD=	­
@@ -82,7 +82,7 @@
 	OPTIONS_VIDEO=			à
 	OPTIONS_FULLSCREEN=		à
 	OPTIONS_WINDOW=			ãà
-	OPTIONS_VSYNC=			VerticalSync
+	OPTIONS_VSYNC=			ÍÐà
 	OPTIONS_VIEWPORT_NS=	Äãà
 	OPTIONS_VIEWPORT_PS4=	Äãà
 	OPTIONS_VIEWPORT_XB1=	Äãà
@@ -150,20 +150,20 @@
 	FILE_CONTINUE=		Ä
 	FILE_DELETE=		Äö
 	FILE_BEGIN=			ÄÇ
-	FILE_ASSIST_OFF=	¿ÔĖOFF
-	FILE_ASSIST_ON=		¿ÔĖON
-	FILE_VARIANT_OFF=	¿ĖOFF
-	FILE_VARIANT_ON=	¿ĖON
+	FILE_ASSIST_OFF=	¿ÔĖ
+	FILE_ASSIST_ON=		¿ÔĖ÷
+	FILE_VARIANT_OFF=	¿Ė
+	FILE_VARIANT_ON=	¿Ė÷
 	FILE_RENAME=		ÄÂ
 	FILE_DELETE_REALLY=	Þ÷÷ĕ
 	FILE_DELETE_NO=		÷ĕĕĕ
 	FILE_DELETE_YES=	÷ĕ
 	FILE_DELETE_FAILED=	ö§Èĕ
 
-#AssistMode
+#ĉċĖċÖċÛċĕċÖċçċĊMode
 	ASSIST_MODE_0=
 		{# 44adf7}¿Ô{#}§ÁĖ{n}
-		ÞÔ»ĕ		
+		Þ¨ñ»ĕ		
 	ASSIST_MODE_1=
 		Þãë» {n}
 		§ö·÷¢ {n}
@@ -177,22 +177,20 @@
 	ASSIST_NO=		÷
 	ASSIST_SKIP=	Äö{n}óÁ
 
-# File Naming
+#FileNaming
 	NAME_LETTERS=
-		
-		 ¡¢£¤
-		¥¦§¨©ª«¬®¯°±²³´µ¶·
-		¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉ
-		ÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛ
-		ÜÝÞßàáâãäåæçèéêëìí
-		îïðñòóôõö÷øùúûüýþÿ
-		ĀāĂăĄąĆćĈ ĉĊċĕĖ
+		AEIJKaeijk
+		LMNOPlmnop
+		STUWstuw
+		1234567890+=Ė~ĕ@$%
+		^&*_-#Ĝ'()<>/\ĕ |`
+
 	NAME_SPACE=			
 	NAME_BACKSPACE=		ö
-	NAME_ACCEPT=		Ä Â
-	NAME_BACK=			Ä ö ç Á
+	NAME_ACCEPT=		ÄÂ
+	NAME_BACK=			ÄöçÁ
 
-#XboxOneStuff
+#XboxĉÄċĖċÀċĕċĊStuff
 	XB1_MENU_SWITCH_PROFILE=	ÄÛ
 	XB1_SIGN_OUT_MESSAGE=		Û§ĕÞÁîĖÄÝ¬Û ÄéªÇĕ
 	XB1_SIGN_IN=				Ä¬Û
@@ -212,7 +210,7 @@
 	OVERWORLD_REMIX_UNLOCKED=	Ò-E§ĕ
 	OVERWORLD_REMIX_UNLOCKED2=	Ò-I§ĕ
 
-#ChapterTitles
+#Chapterĉçċċçċ¥ċĕċÖċĊ
 	AREA_CHAPTER=	ó{x}
 	AREA_0=			Ç
 	AREA_1=			°íÈ
@@ -345,8 +343,8 @@
 	JOURNAL_TOTALS=					
 	JOURNAL_GRANDTOTAL=				½ó
 
-#Stats
-	STATS_TITLE=			ÍSteam
+#ĉÖċçċĕċçċÖċĊ
+	STATS_TITLE=			ÍĉÖċêċĕċċĖċ°ċĊ
 	STAT_BERRIES=			
 	STAT_DEATHS=			·
 	STAT_DASHES=			éõ
@@ -401,7 +399,7 @@
 	MENU_RESTART_CONTINUE=		Ý
 	MENU_RESTART_CANCEL=		Ý
 
-#AssistUI
+#ĉċĖċÖċÛċĕċÖċçċĊUI
 	MENU_ASSIST_TITLE=					¿Ô
 	MENU_ASSIST_SUBTITLE=				Ô
 	MENU_ASSIST_GAMESPEED=				ë»
@@ -444,16 +442,16 @@
 	AREA_4_REMIX=		(ÝGoldenFeather)
 	AREA_5_REMIX=		(ÝMirrorMagic)
 	AREA_6_REMIX=		(ÝCenteroftheEarth)
-	AREA_7_REMIX=		(ÝNoMoreRunning)
+	AREA_7_REMIX=		(ÝĉÃċĕċĊMoreRunning)
 	AREA_9_REMIX=		(ÝSayGoodbye)
 
 #Credits
 	CREDITS_THANKYOU=	ÞÔç»Ė)
 
-#Names
+#ĉ½ċĕċ³ċĕċÖċĊ
 	THEO=				{# FF9523}ĉÛċĕċċĖċĊ{#}
 	THEO_UNDER_STARS=	{# FFFF4C}munSijo{#}
-	MIXMASTER_THEO=		{# FF9523}õĉÛċĕċċĖċĊ{#}
+	MIXMASTER_THEO=		{# FF9523}¤»ĉÛċĕċċĖċĊ{#}
 	MOM=				{# 339CC7}±´{#}
 	MROSHIRO=			{# 7BD838}ĉÄċĖċÛċĕċ«ċĕċĊ{#}
 	OSHIRO=				{# 7BD838}ĉÄċĖċÛċĕċ«ċĕċĊ{#}
@@ -486,7 +484,7 @@
 	CH0_INTRO=
 		ëã§ {+MADELINE}Äĕ
 		Äĕ
-		´ÄÎýĕ
+		´ÄÎýĕ
 
 	CH0_GRANNY=
 		{anchor top}
@@ -523,7 +521,7 @@
 		{trigger 4 Stop laughing}
 
 		[GRANNY left normal]
-		Ä÷Þĕ
+		ÄéÍ÷Þĕ
 
 		{silent_trigger 5 Ominous zoom-in}
 
@@ -550,7 +548,7 @@
 
 	CH1_THEO_A=
 		[THEO left normal]
-		ì éÖÄĕ
+		ì éÖÄĕ
 
 		[MADELINE right distracted]
 		ĕĕĕìĕ
@@ -600,7 +598,7 @@
 		 {+MADELINE}ÄĕÞé°Ôĕ
 
 		[THEO left thinking]
-		´¦¼ĕè´á{n}°ÔÖÁĕ
+		´¦¼ĕè´á{n}°ÍÔÁĕ
 		
 		[MADELINE right sad]
 		Ć Á§¬ĕ
@@ -651,19 +649,19 @@
 		
 		[MADELINE right normal]
 		ÙĕÔĕ
-		ÞÌàéªÙĕ
+		ÞÌàéíªÙĕ
 		
 		[THEO left thinking]
-		ªĕ
+		íªĕ
 		{+MADELINE}Äĕ
-		§{# FFFF4C}ìĕsocial{#}¬ëÁĕ
+		§{# FFFF4C}ìĕsocial{#}¬ëÁĕ
 		
 		[THEO left excited]
 		´{+THEO_UNDER_STARS}¬ÁĕÄ´ĕ
 
 	CH1_THEO_E=
 		[THEO left normal]
-		°Á§ĕ{n}Þöö¬ëÒĕ
+		°Á§ñĕ{n}Þöö¬ëÒĕ
 		
 		[MADELINE right normal]
 		öĕ´éÚ½óĕ
@@ -687,13 +685,13 @@
 		¬¡ ´÷éÚ½óĕ
 
 		[THEO left normal]
-		{ĕ}ĕ{/ĕ}èíÈ{~}Ô{/~}{n}§¬ÐÍ°Áĕ
+		{ĕ}ĕ{/ĕ}èíÍÈ{~}Ô{/~}{n}§¬ÐÍ°Áĕ
 		
 		[THEO left excited]
 		´÷®ĕ
 
 		[THEO left normal]
-		´áĕè´÷®ĕ
+		´áñĕè´÷®ĕ
 
 	CH1_THEO_F=
 		[THEO left normal]
@@ -762,7 +760,7 @@
 		´ĕ
 
 		[MADELINE right distracted]
-		 ´÷-
+		 ´÷-
 
 		[BADELINE left angry]
 		Äìĕ
@@ -772,7 +770,7 @@
 		è Äáĕ´Îýĕĕĕ
 
 		[BADELINE left normal]
-		´÷ÉãĕèÁ§ĕĕĕ
+		´÷ÉãĕèÁ§ĕĕĕ
 		
 		[MADELINE right sad]
 		Á§¾ĕè{n}´÷éÚÍ{+mountain}Áĕ
@@ -780,16 +778,16 @@
 		{trigger 2 Badeline starts laughing}
 		
 		[BADELINE left scoff]
-		Þ¼ĕ{n}èÞ{~}é{/~}ĕ
+		Þ¼ĕ{n}èÞ{~}éÚÀ{/~}ĕ
 
 		[MADELINE right distracted]
-		Ù§¤Áĕ
+		Ù§ÎÁĕ
 
 		{trigger 3 Badeline stops laughing}
 		
 		[BADELINE left upset]
-		ÞÔ¬Áĕ{n}èÄÎ¬ĕ
-		Þáĕ
+		ÞÔ¬Áĕ{n}ÄÎ¬ĕ
+		Þáĕ
 		ÞÁĕ
 		
 		[MADELINE right upset]
@@ -814,10 +812,10 @@
 		ĕĕĕÞìçíÙĕ
 
 		[MADELINE_PHONE left distracted]
-		ìĕ
+		Áĕ
 
 		[MADELINE_PHONE left sad]
-		 ÙĕĕĕĕÞÇìĕ
+		 ÙĕĕĕĕÞÇìĕ
 
 		[EX_PHONE right normal]
 		ÞìÙĕ
@@ -827,15 +825,15 @@
 		ĕĕĕ§´ĕ
 
 		[MADELINE_PHONE left sad]
-		´áõĕ{n}è´áĕ´ÎÆĕ
+		á§¨ĕ{n}è´áĕ´ÎÆĕ
 		
 		[EX_PHONE right normal]
-		{+MADELINE}Ä Þì¬{n}ýÍëÏèĕ
+		{+MADELINE}Ä Þì¬{n}ñýÍë¾èĕ
 		Þìé´{n}ì¾Í¬ĕ
 		
 		[MADELINE_PHONE left angry]
 		Á§¬ĕ
-		ÞÁ¬ëĕ
+		ÞÁ¬ĕ
 		
 		[EX_PHONE right normal]
 		{~}aaa{/~}{0ĕ5}§Ô Ä¨ýĕ
@@ -868,7 +866,7 @@
 	#iftheMADELINEhasnevermetTheobefore
 	CH2_THEO_INTRO_NEVER_MET=
 		[THEO left normal]
-		ì éÖÄĕ
+		ì éÖÄĕ
 		
 		[MADELINE right distracted]
 		ĕĕĕìĕ
@@ -894,12 +892,12 @@
 		ÞìÍ¼ĕ
 		
 		[THEO left normal]
-		Þ¥ĕ´áĕ{n}´ÉÐ¥õçÞĕ
+		Þ¥ĕ´áĕ{n}´É»ÐñõéÞĕ
 
 	#iftheMADELINEhasmetTheo butneverintroducedherself
 	CH2_THEO_INTRO_NEVER_INTRODUCED=
 		[MADELINE right sad]
-		ì {+ theo}Äĕ´Îçìĕ{n}´{+MADELINE}ĕ
+		ì {+ theo}Äĕ´Îçìĕ{n}´{+MADELINE}ĕ
 		´Î¼ĕ
 		
 		[THEO left normal]
@@ -950,7 +948,7 @@
 		{+ theo}Ä Á§Ôĕ
 		
 		[THEO left thinking]
-		¡´§¼Áĕ
+		¡®Í´§ãÁĕ
 
 		{trigger 1 Theo puts away phone}
 		
@@ -990,7 +988,7 @@
 		{trigger 0 Add filter to selfie}
 		
 		[THEO left thinking]
-		Æ§ã èÆ§áĕ
+		à§ã è¨§¿Ôĕ
 
 	CH2_THEO_C=
 		[MADELINE right normal]
@@ -1000,10 +998,10 @@
 		±´§àĕ
 
 		[THEO left thinking]
-		Æ§ãéàĕ
+		Æ§ãéÍÉàĕ
 
 		[THEO left wtf]
-		¡´ÔÖÆĕ
+		´ÔÖÆĕ
 
 		[THEO left normal]
 		è´÷ÖÆĕ
@@ -1032,7 +1030,7 @@
 		´áĕ
 		
 		[THEO left wtf]
-		{+MADELINE}ÄĕÙĕ
+		ÞÙĕ
 
 	CH2_END_PHONECALL=
 		[MOM_PHONE right normal]
@@ -1073,7 +1071,7 @@
 		Þĕĕĕ Ùĕ
 		
 		[OSHIRO right worried]
-		ĕ´Áĕ
+		ĕ´ĕ
 		
 		[OSHIRO right normal]
 		´¤íÁĕ
@@ -1122,7 +1120,7 @@
 		{+thought}íÚÄõÎÆĕ{+ oshiro}Äĕ{+endthought}
 		
 		[OSHIRO right normal]
-		ÞÙ éªĕ
+		ÂÞ§Ù éªĕ
 		
 		[MADELINE left normal]
 		´{+MADELINE}ĕ
@@ -1493,7 +1491,7 @@
 
 		[THEO right worried]
 		´ÄöÄì{n}éáÍ{0ĕ2}{*}ý{/*}ĕ
-		Wearen'tpreparedforthisĕ
+		Á¾¡´õĕ
 		
 		[MADELINE left distracted]
 		Î´¡Æ§Ôĕ
@@ -1515,7 +1513,7 @@
 	CH3_THEO_VENTS=
 		{anchor bottom}
 		[THEO right normal upsidedown]
-		´¬Úĕ
+		´ÖĉċĖċ¸ċĕċĕċċĕċĊĕ
 		¿Á§¾ĕ
 		{+elcreepo}§Ùĕ
 		
@@ -1527,11 +1525,11 @@
 		
 		[THEO right wtf upsidedown]
 		{+MADELINE}Äĕ
-		á´§{~}ã{/~}¬Áĕ
+		§{~}ã{/~}ĕ
 		ÄöÖ´ĕ
 		
 		[MADELINE left sad]
-		´ö¡ {+mroshiro}§ÈÎĕ
+		´ö¡ {+mroshiro}§ÈÎĕ
 		
 		[MADELINE left distracted]
 		´÷{n}Ô{ĕ3}ÖëÐĕ
@@ -2913,7 +2911,7 @@
 
 		[MADELINE right distracted]
 		ĕĕĕ
-		Æ§ÖÁĕĕĕ
+		Î§ÖÁĕĕĕ
 
 		[MADELINE right sad]
 		´¬êĕ
@@ -2926,18 +2924,18 @@
 		{trigger 0 Wait a bit}
 
 		[MADELINE right sad]
-		´á¬Íĕ
-		è¬Á§öĕ{n}´¼éÆĕèÆ§öĕ
+		´áÎÍĕ
+		èÎÁ§öĕ{n}´¼éÁÝĕèÎ§öĕ
 		
 		[MADELINE right distracted]
 		¡ ´È¬ëĕ
-		¡ ¨è§Áĕ
+		¡ ¨è§Áĕ
 
 		[MADELINE right upset]
 		´ĕ
 
 		[THEO left serious]
-		Á §çÞĕ
+		Á§çÞĕ
 
 		{trigger 0 Wait a bit}
 
@@ -2949,18 +2947,18 @@
 		´¬ê {n}§é¬¿¾ĕ
 
 		[MADELINE right sad]
-		§{*}ĕ{/*}
+		§{*}ĕ{/*}
 
 		[MADELINE right distracted]
-		Á§çÍ´ĕ
+		Á§çÍé´ĕ
 		ĕĕĕ
-		è´öç´ĕ
+		è´éöçÎ´ĕ
 
 		[MADELINE right upset]
 		´{*}ñ´{/*}¬éĕ
 
 		[MADELINE right distracted]
-		Á§éĕ
+		Á§ĕ
 
 		{trigger 0 Wait a bit}
 
@@ -2968,7 +2966,7 @@
 		{+MADELINE}Ä Þ´ç{~}·{/~}ĕ
 
 		[THEO left wtf]
-		Á§éÔĕ
+		Á§Ôĕ
 
 		[MADELINE right distracted]
 		¬ĕĕĕ
@@ -2979,13 +2977,13 @@
 		ÞÔĕ
 
 		[THEO left thinking]
-		ÞÈ¨ĕèÞ{~}Ôĕ{/~}
+		ÎÞ§ĕèÞ{~}Ôĕ{/~}
 
 		[THEO left wtf]
-		Î´¡ ÞöçêÁĕ
+		éÁ¡Þöçêĕ
 
 		[THEO left excited]
-		çÁ§Ôĕ
+		Á§Ôĕ
 
 		[MADELINE right distracted]
 		ĕ
@@ -2999,10 +2997,10 @@
 		{+PART_OF_YOU}§àÎĕ
 
 		[MADELINE right upset]
-		Á¡ Æ§Ùĕ
+		Á¡ Æ§öç´ĕ
 
 		[THEO left normal]
-		Þùĕ
+		ÞöçÆĕ
 
 		[MADELINE right upset]
 		Á§Ô{*}{/*}ĕ
@@ -3034,8 +3032,7 @@
 		Äá¤Æĕ
 
 		[MADELINE right distracted]
-		ªÞ
-§ÔéÁĕ
+		ªÞ§ÔéÁĕ
 
 		[MADELINE right sad]
 		ÞÔçáĕ
@@ -3057,7 +3054,7 @@
 		Þ÷{n}¡Þ{>> ĕ2}é¬{+MOUNTAIN}{>>}ĕĕĕ
 
 		[THEO left thinking]
-		Ù¡ÞÁ§¢ĕ
+		Ù¡ÞÉõ§¢ĕ
 
 		[THEO left wtf]
 		Äé°ĉċĖċòċĕċ÷ċĕċĊÄ¬ê×ĕ
@@ -3070,13 +3067,13 @@
 		èÞÉ¼ĕ
 
 		[MADELINE right distracted]
-		Á§õĕ
+		Á§ñõĕ
 		èÁ§Ôĕ
-		Ô§÷õ¼ç´ĕ
+		Ô§ñ´ĕ
 
 		[MADELINE right sad]
 		´¨ĕ
-		´ĕ
+		´Ä´ĕ
 
 	CH6_THEO_ASK_FAMILY=
 		[MADELINE right normal]
@@ -3096,7 +3093,7 @@
 		Ç¡Æ§{~}Ô¼{/~}ĕĕĕ
 
 		[THEO left wtf]
-		èÆ§ĕ
+		èÆ§ĕ
 
 		[THEO left thinking]
 		Á¡´öçÉÁ§é°ĉċĕċ½ċĕċçċĕċĊĕ
@@ -3111,13 +3108,13 @@
 
 		[THEO left thinking]
 		Á§¬ĕ
-		§é´ĕ
+		§Ôé´ĕ
 
 		[THEO left serious]
-		è´÷¼ç{~}´ĕ{/~}
+		è{~}´{/~}÷¼ç´ĕ
 
 		[THEO left wtf]
-		¡´÷Ö{n}{+ALEX}ĕè´{~}Á{/~}ĕ
+		¡´÷Ö{+ALEX}ĕ{n}è´{~}Á{/~}ĕ
 		¡´á¿´ĕ
 		
 		[MADELINE right distracted]
@@ -3149,7 +3146,7 @@
 		ĕĕĕ
 
 		[THEO left wtf]
-		´ÔÎèĕ
+		´ÄÔÎĕ
 
 		[THEO left serious]
 		´Á§¬Ôĕ{n}Æ§÷Áĕ
@@ -3848,7 +3845,7 @@
 	CH7_HEIGHT_4=Ú{X}
 	CH7_HEIGHT_5=Ú{X}
 
-	#MountainBase->ForsakenCity
+	#ĉ¶ċĕċðċ½ċçċĕċċĕċĊBase->ForsakenCity
 	CH7_ASCEND_0=
 		[MADELINE left normal]
 		´õĕ
@@ -3862,7 +3859,7 @@
 		[BADELINE right worried]
 		÷§¡Ùĕ
 
-	#ForsakenCity->OldSite
+	#ForsakenCity->OldĉàċĕċĕċĊ
 	CH7_ASCEND_1=
 		[MADELINE left normal]
 		ÞÙÎĕ
@@ -3882,7 +3879,7 @@
 		[BADELINE right upset]
 		ìÞ§¬é´
 
-	#OldSite->CelestialResort
+	#OldĉàċĕċĕċĊ->CelestialResort
 	CH7_ASCEND_2=
 		[BADELINE right normal]
 		Þõĕ
@@ -3958,7 +3955,7 @@
 		[MADELINE left sad]
 		ñ§Ðĕ
 		
-	#Cliffside->Temple
+	#Cliffside->ĉêċĕċ°ċÈċ¥ċĕċĊ
 	CH7_ASCEND_4=
 		[MADELINE left surprised]
 		´¬Ò·ĕ
@@ -3992,7 +3989,7 @@
 		[MADELINE left sad]
 		Þãé´ĕ
 		
-	#Temple->Summit
+	#ĉêċĕċ°ċÈċ¥ċĕċĊ->ĉãċĕċ°ċ´ċĖċçċĊ
 	CH7_ASCEND_5=
 		[MADELINE left determined]
 		´Ðĕ
@@ -4365,7 +4362,7 @@
 		{trigger 0}
 
 		[GRANNY right normal flip]
-		Á§¯Íì´ĕ
+		Á§¯ÍìÐ´ĕ
 		
 		{silent_trigger 1}
 		
@@ -4377,7 +4374,7 @@
 
 		[GRANNY right normal]
 		¿Á§é{+MOUNTAIN}ĕ
-		Þ÷éÝĕĕĕ
+		Þ÷éÝĕĕĕ
 
 		{trigger 0 start laughing}
 
@@ -4531,13 +4528,13 @@
 		{trigger 1 Badeline Appears}
 
 		[BADELINE left scoff]
-		ÆÄÙĕÆ§ìÔĕ
+		ÆÄÙĕÆ§ìĕ
 
 		[BADELINE left upset]
-		Æ§öĕ
+		Æ§{~}·{/~}ĕ
 
 		[BADELINE left angry]
-		Þé·Æĕ
+		ÞéëÍ·Æĕ
 
 		{trigger 2 Sit Down}
 
@@ -4551,13 +4548,13 @@
 		{+GRANNY}Äĕĕĕ´÷Áĕ
 
 		[BADELINE left angry]
-		{~}÷{/~}§Ýáĕ
+		{~}÷{/~}§ÝÆĕ
 
 		[MADELINE left sadder]
 		Þì¬ĕ
 
 		[MADELINE left sad]
-		´ÄéÁĕ
+		´Äĕ
 
 	CH9_FLYING_TO_THE_MOON=
 		[BADELINE right concerned]
@@ -5199,7 +5196,7 @@
 	WAVEDASH_PAGE4_TITLE=			¿Á
 	WAVEDASH_PAGE4_LIST=
 		-ÄéÚ{n}
-		-Äéõå{n}
+		-Äéõéå{n}
 		-ÄéÚÄéÒ{n}
 		-{~}ÞÁĕ{/~}{n}
 		-(õ)
